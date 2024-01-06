@@ -1,4 +1,4 @@
-# Health_data_analytics
+# Random Health Data Analytics Projects and assignments
 1- EDA on health data:
 - Diabetes data
 - Lipid data
