@@ -5,3 +5,7 @@
   
 2- Gaussian NB classifier:
 - Breast cancer data
+
+3- Hyper-parameter Optimization
+- Breast cancer data
+
